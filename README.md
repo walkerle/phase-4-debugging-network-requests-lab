@@ -37,9 +37,9 @@ React application.
 In this application, we have the following features:
 
 - Display a list of all the toys
-- Add a new toy when the toy form is submitted
-- Update the number of likes for a toy
-- Donate a toy to Goodwill (and delete it from our database)
+- [x] Add a new toy when the toy form is submitted
+- [x] Update the number of likes for a toy
+- [x] Donate a toy to Goodwill (and delete it from our database)
 
 The code is in place for all these features on our frontend, but there are some
 problems with our API! We're able to display all the toys, but the other three
